@@ -1,0 +1,10 @@
+.mat-mdc-card-content{
+    display: flex;
+    flex-direction: column;
+    padding-right: 60%;
+    padding-top: 3px;
+}
+.mat-mdc-card-header {
+    background-color: rgb(220, 247, 244);
+    margin-right: 60%;
+}
